@@ -1,0 +1,41 @@
+body{
+	background-image: url("../imagenes/mememejorado2sinsat.jpg");
+}
+.container{
+    margin-top: 60px;
+}
+.seccionTags, .seccionCuentas{
+    background-color: #713D9D;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 10px #333;
+}
+
+.seccionMemes{
+	background-color: #DDD;
+	border-radius: 10px;
+}
+
+.seccionTags, .seccionCuentas{
+    padding: 10px;
+}
+
+.publicacion{
+    margin: 30px 0px 15px 0px;
+}
+.interac{
+    margin: 0px 0px 0px 20px;
+    background-color: #EEE;
+    box-shadow: 5px 5px 19px -2px rgba(148,148,148,1);
+    border-radius: 20px;
+}
+.interacciones{
+    width: 30px;
+    margin: 5px 15px;
+    transition: .3s;
+}
+.interacciones:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: .3s;
+}

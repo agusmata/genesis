@@ -1,0 +1,25 @@
+.navbar-brand{
+	margin-left:20px;
+}
+
+.bg-color{
+	background-color:#713D9D;
+}
+.buscador {
+	margin-top: 15px;
+}
+.margin_user{
+	margin-left:100px;
+	margin-top: 5px;
+}
+.mybtn-outline-success{
+    color: #828282;
+	border-color: #9d9e9d;
+    background-color: transparent;
+    background-image: none;
+    
+}
+.mybtn-outline-success:hover{
+    color: #9d9e9d;
+    border-color: #9d9e9d;
+}

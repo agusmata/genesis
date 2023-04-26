@@ -1,0 +1,36 @@
+html{
+    background-image: url(../imagenes/mememejorado2sat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.centrar{
+    position: absolute;
+    top:50%;
+    left:50%;
+    width:800px;
+    margin-left:-400px;
+    height:300px;
+    margin-top:-323px;
+}
+.contenedor{
+    background-color: white;
+}
+.container{
+    margin-right: 0px;
+}
+.frm{
+    padding: 20px;
+}
+.form-control{
+    
+	border-radius:70px;
+}
+body{
+    background-color: transparent;
+}
+
+.meme{
+    padding: 0px;
+    overflow: hidden;
+    max-height: 650px;
+}
